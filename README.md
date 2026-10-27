@@ -50,21 +50,6 @@ Final model: Stacked LSTM (64 → 32 units, dropout 0.2, batch size 32, learning
 
 **Key finding:** SHAP, LIME and Permutation Importance all identified `current_chan1`, `current_chan2` and `current_chan3` as the dominant predictors, followed by time-of-day features. This is physically plausible, since electrical current is directly linked to power consumption.
 
-## Getting Started
-
-```bash
-git clone https://github.com/[your-username]/[repo-name].git
-cd [repo-name]
-pip install -r requirements.txt
-jupyter notebook notebooks/Final_Code_Thesis.ipynb
-```
-
-To run the Streamlit app [if added]:
-
-```bash
-streamlit run app.py
-```
-
 ## Acknowledgements
 
 Thanks to Electric Blue Technology for providing the dataset, and to my supervisors at TU Dublin.
