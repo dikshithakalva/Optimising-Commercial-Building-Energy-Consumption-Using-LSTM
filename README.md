@@ -1,9 +1,12 @@
 # Optimising Commercial Building Energy Consumption Using LSTM
 
 MSc Human-Centred AI thesis project, Technological University Dublin (TU Dublin)
+
 **Author:** Dikshitha Kalva Vinod
+
 **Supervisors:** Dr. Na Li, Dr. Rajesh Jaiswal
-**Industry partner:** Electric Blue Technology
+
+**Industry partner:** Paul Donohue, Electric Blue Technology
 
 ## Overview
 
